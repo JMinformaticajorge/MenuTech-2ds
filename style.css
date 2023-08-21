@@ -11,7 +11,7 @@ body{
     font-family: 'Amaranth', sans-serif;
 }
 
-#foto1{
+#foto1, #foto2{
     border-radius: 0 0 30px 30px;
 }
 
@@ -93,4 +93,12 @@ main {
     font-weight: bold;
     color: #ca6754;
     text-align: center;
+}
+
+#lanches, #bebidas, #outros {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    padding: 45px;
 }
